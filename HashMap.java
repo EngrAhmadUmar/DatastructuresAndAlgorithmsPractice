@@ -37,7 +37,8 @@ public class YourClassNameHere {
       System.out.println(secondHashMap.size());
       
       //To replace value of element in hashmap
-      System.out.println(secondHashMap.replace("Virgil", "7"));
+      System.out.println(secondHash
+      Map.replace("Virgil", "7"));
       
       System.out.println(secondHashMap);
       
@@ -46,6 +47,9 @@ public class YourClassNameHere {
       
       //To get all the keys in a HashMap
       System.out.println(secondHashMap.keySet());
+      
+      // To sort array//
+      // Arrays.sort(name of array)
       
     }
 }
